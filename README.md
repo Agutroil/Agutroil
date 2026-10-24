@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./agutroil-banner.png" alt="Agutroil – Code Linux Magic" width="100%">
+</p>
 # 🧙‍♂️ Welcome to Agutroil's Realm
 
 > **Code. Linux. Magic.**
