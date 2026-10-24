@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🧙‍♂️ Welcome to Agutroil's Realm
 
-<!--
-**Agutroil/Agutroil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Code. Linux. Magic.**
 
-Here are some ideas to get you started:
+Hey! I'm **Agutroil**. 🐧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software, experimenting with Linux and turning ideas into real projects.
+
+## ⚡ What I do
+
+- 🐧 Linux & Debian
+- 💻 Web Development
+- ⚛️ React & TypeScript
+- 📱 Android Development
+- 🎮 Game Development
+- 🛠️ Open-Source Projects
+- 🔬 Experimenting with new technologies
+
+## 🔮 Current Quest
+
+Building creative applications, games and tools while continuously improving my development workflow.
+
+## 🧰 My Toolbox
+
+`Linux` · `Debian` · `TypeScript` · `JavaScript` · `React` · `HTML` · `CSS` · `Git` · `Android`
+
+## 🌌 Philosophy
+
+> Every bug is just an undocumented spell.
+
+---
+
+🐧 **Powered by Linux**  
+🪄 **Crafted by Agutroil**
