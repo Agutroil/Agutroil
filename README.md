@@ -16,6 +16,10 @@
   <a href="https://github.com/Agutroil">
     <strong>🐙 GitHub @Agutroil</strong>
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://agutroil.github.io/">
+    <strong>🌐 GitHub Page</strong>
+  </a>
 </p>
 
 <p align="center">
