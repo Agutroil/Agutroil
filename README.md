@@ -30,11 +30,7 @@ KI-gestützten Entwicklungsworkflows.
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/end.png"
-       alt="Developer · Linux Enthusiast · Open-Source Creator · Technology Enthusiast"
-       width="100%">
-</p>
+
 
 
 <p align="center">
