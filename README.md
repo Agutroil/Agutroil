@@ -18,7 +18,7 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://agutroil.github.io/">
-    <strong>🌐 GitHub Page</strong>
+    <strong>🌐 Agutroil Website</strong>
   </a>
 </p>
 
@@ -40,12 +40,13 @@ Hallo, ich bin <strong>Anton Deister</strong> – auf GitHub unterwegs als
 
 <p>
 Ich beschäftige mich leidenschaftlich mit
-<strong>Softwareentwicklung, Linux, Open Source und Game Development</strong>.
+<strong>Softwareentwicklung, Linux, Open Source, Web Development und Game Development</strong>.
 </p>
 
 <p>
 Besonders spannend finde ich Projekte, bei denen aus einer Idee Schritt für Schritt
-etwas Eigenes entsteht – egal ob Anwendung, Spiel, Entwicklungswerkzeug oder Experiment.
+etwas Eigenes entsteht – egal ob Anwendung, Spiel, WordPress-Theme,
+Entwicklungswerkzeug oder technisches Experiment.
 </p>
 
 <p>
@@ -64,6 +65,8 @@ beschäftige mich zunehmend mit
   <li>Godot</li>
   <li>Web Development</li>
   <li>React & TypeScript</li>
+  <li>Next.js</li>
+  <li>WordPress & PHP</li>
   <li>Python</li>
   <li>Android Development</li>
   <li>Automatisierung</li>
@@ -137,7 +140,9 @@ beschäftige mich zunehmend mit
 
 <p>💻 <strong>Web Development</strong></p>
 
-<p>⚛️ <strong>React & TypeScript</strong></p>
+<p>⚛️ <strong>React · TypeScript · Next.js</strong></p>
+
+<p>📰 <strong>WordPress Theme Development</strong></p>
 
 <p>🤖 <strong>Android Development</strong></p>
 
@@ -154,8 +159,9 @@ beschäftige mich zunehmend mit
 <h2 align="center">🌀 Current Quest</h2>
 
 <p align="center">
-  Building creative applications, games and tools while continuously
-  improving my development workflow.
+  Building creative applications, games, developer tools
+  and open-source projects while continuously improving
+  my development workflow.
 </p>
 
 <br>
@@ -172,15 +178,18 @@ beschäftige mich zunehmend mit
   <kbd>TypeScript</kbd>
   <kbd>JavaScript</kbd>
   <kbd>React</kbd>
+  <kbd>Next.js</kbd>
 </p>
 
 <p align="center">
-  <kbd>Python</kbd>
+  <kbd>WordPress</kbd>
+  <kbd>PHP</kbd>
   <kbd>HTML</kbd>
   <kbd>CSS</kbd>
 </p>
 
 <p align="center">
+  <kbd>Python</kbd>
   <kbd>Git</kbd>
   <kbd>GitHub</kbd>
   <kbd>Android</kbd>
@@ -226,16 +235,19 @@ Ich entwickle eigene Spiele, Game-Systeme und technische Experimente mit
 <h3 align="center">🌐 Web Development</h3>
 
 <p>
-Ich arbeite und experimentiere mit modernen Web-Technologien.
+Ich entwickle und experimentiere mit modernen Web-Technologien,
+Webanwendungen und WordPress-Projekten.
 </p>
 
 <p align="center">
   <kbd>React</kbd>
   <kbd>TypeScript</kbd>
-  <kbd>JavaScript</kbd>
+  <kbd>Next.js</kbd>
 </p>
 
 <p align="center">
+  <kbd>WordPress</kbd>
+  <kbd>PHP</kbd>
   <kbd>HTML</kbd>
   <kbd>CSS</kbd>
 </p>
@@ -310,13 +322,20 @@ Entwicklungsprojekte integriert werden können.
   <kbd>TypeScript</kbd>
   <kbd>JavaScript</kbd>
   <kbd>React</kbd>
+  <kbd>Next.js</kbd>
 </p>
 
 <p align="center">
+  <kbd>WordPress</kbd>
+  <kbd>PHP</kbd>
   <kbd>HTML</kbd>
   <kbd>CSS</kbd>
+</p>
+
+<p align="center">
   <kbd>Android</kbd>
   <kbd>Shell</kbd>
+  <kbd>Automation</kbd>
 </p>
 
 <p align="center">
@@ -360,6 +379,12 @@ Entwicklungsprojekte integriert werden können.
 
 <h2 align="center">🛠️ Projekte</h2>
 
+<p align="center">
+  Eine Auswahl meiner aktuellen und öffentlichen Projekte.
+</p>
+
+<br>
+
 <table>
 <tr>
 
@@ -377,7 +402,7 @@ Nythara ist ein Fantasy-Game-Projekt auf Basis von
 </p>
 
 <ul>
-  <li>🌍 große Spielwelten</li>
+  <li>🌍 Große Spielwelten</li>
   <li>🌐 Multiplayer</li>
   <li>🏗️ World Building</li>
   <li>⚔️ Combat</li>
@@ -421,6 +446,136 @@ umfangreiche Gameplay- und Progressionssysteme.
   <li>🌍 Open Source</li>
 </ul>
 
+<p align="center">
+  <sub>🌍 Open-Source Game Project</sub>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🩺 MedCore</h2>
+
+<p align="center">
+  <strong>Open-Source Healthcare Platform</strong>
+</p>
+
+<p>
+<strong>MedCore</strong> ist eine moderne Open-Source-Anwendung
+für medizinische und gesundheitsbezogene Workflows.
+Das Projekt befindet sich aktuell in aktiver Entwicklung.
+</p>
+
+<ul>
+  <li>🩺 Healthcare Software</li>
+  <li>⚛️ React</li>
+  <li>▲ Next.js</li>
+  <li>🔷 TypeScript</li>
+  <li>🔐 Security & Privacy</li>
+  <li>🧩 Modulare Architektur</li>
+  <li>📱 Moderne Benutzeroberfläche</li>
+  <li>🌍 Open Source</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/Agutroil/medcore">
+    <strong>🩺 MedCore auf GitHub ansehen →</strong>
+  </a>
+</p>
+
+<p align="center">
+  <sub>🚧 Open Source · Active Development</sub>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">📰 Blog Pulse</h2>
+
+<p align="center">
+  <strong>Modern Open-Source WordPress Theme</strong>
+</p>
+
+<p>
+<strong>Blog Pulse</strong> ist ein modernes und responsives
+WordPress-Theme für Blogs, Magazine und contentorientierte Webseiten.
+</p>
+
+<ul>
+  <li>📰 Blogs & Magazine</li>
+  <li>🧱 Full Site Editing</li>
+  <li>📱 Responsive Design</li>
+  <li>🌙 Dark Mode</li>
+  <li>🧩 Block Patterns</li>
+  <li>🎨 Design Tokens</li>
+  <li>⚡ Lightweight Frontend</li>
+  <li>🌍 Open Source</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/Agutroil/blog-pulse">
+    <strong>📰 Blog Pulse auf GitHub ansehen →</strong>
+  </a>
+</p>
+
+<p align="center">
+  <sub>🌍 Open-Source WordPress Theme</sub>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  ✦ ─────────────── ✦ ─────────────── ✦
+</p>
+
+<h2 align="center">🌍 Open Source</h2>
+
+<p align="center">
+  Ich möchte Projekte nicht nur entwickeln, sondern sie auch dokumentieren,
+  veröffentlichen und für andere Entwickler nachvollziehbar machen.
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🩺 MedCore</h3>
+
+<p align="center">
+  Open-source healthcare software in active development.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Agutroil/medcore">
+    <strong>Repository öffnen →</strong>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📰 Blog Pulse</h3>
+
+<p align="center">
+  Open-source WordPress theme for modern blogs and magazines.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Agutroil/blog-pulse">
+    <strong>Repository öffnen →</strong>
+  </a>
+</p>
+
 </td>
 
 </tr>
@@ -444,19 +599,23 @@ umfangreiche Gameplay- und Progressionssysteme.
   <li>World Building</li>
   <li>Multiplayer-Architektur</li>
   <li>Game-System-Design</li>
+  <li>Performance-Optimierung</li>
 </ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚙️ Development Tools</h3>
+<h3 align="center">⚙️ Development & Open Source</h3>
 
 <ul>
+  <li>Open-Source-Projekte ausbauen</li>
+  <li>MedCore weiterentwickeln</li>
+  <li>WordPress-Themes entwickeln</li>
   <li>Automatisierte Asset-Pipelines</li>
   <li>Coding Agents</li>
   <li>KI-gestützte Entwicklungswerkzeuge</li>
-  <li>Open-Source-Workflows</li>
+  <li>Reproduzierbare Entwicklungsprozesse</li>
 </ul>
 
 </td>
@@ -496,23 +655,130 @@ umfangreiche Gameplay- und Progressionssysteme.
   ✦ ─────────────── ✦ ─────────────── ✦
 </p>
 
-<h2 align="center">🔗 Find me on GitHub</h2>
+<!-- LINKS & PROJECTS -->
+
+<h2 align="center">🔗 Find me & my Projects</h2>
+
+<p align="center">
+  Follow my work, explore my open-source projects
+  and discover what I'm currently building.
+</p>
+
+<br>
 
 <p align="center">
 
-<a href="https://github.com/Agutroil">
-  <strong>🐙 GitHub · Agutroil</strong>
-</a>
+  <a href="https://github.com/Agutroil">
+    <img
+      src="https://img.shields.io/badge/GitHub-Agutroil-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Agutroil"
+    />
+  </a>
 
-&nbsp;&nbsp; • &nbsp;&nbsp;
+  <a href="https://agutroil.github.io/">
+    <img
+      src="https://img.shields.io/badge/Website-Agutroil-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Agutroil Website"
+    />
+  </a>
 
-<a href="https://github.com/Agutroil/Nythara">
-  <strong>🎮 Nythara</strong>
-</a>
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/Agutroil/Nythara">
+    <img
+      src="https://img.shields.io/badge/🎮_Nythara-Game_Development-7C3AED?style=for-the-badge"
+      alt="Nythara"
+    />
+  </a>
+
+  <a href="https://github.com/Agutroil/medcore">
+    <img
+      src="https://img.shields.io/badge/🩺_MedCore-Healthcare-0891B2?style=for-the-badge"
+      alt="MedCore"
+    />
+  </a>
+
+  <a href="https://github.com/Agutroil/blog-pulse">
+    <img
+      src="https://img.shields.io/badge/📰_Blog_Pulse-WordPress-BE123C?style=for-the-badge"
+      alt="Blog Pulse"
+    />
+  </a>
 
 </p>
 
 <br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🎮 Nythara</h3>
+
+<p>
+Fantasy game development<br>
+with Godot.
+</p>
+
+<a href="https://github.com/Agutroil/Nythara">
+  <strong>Explore Nythara →</strong>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🩺 MedCore</h3>
+
+<p>
+Open-source healthcare<br>
+platform.
+</p>
+
+<a href="https://github.com/Agutroil/medcore">
+  <strong>Explore MedCore →</strong>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>📰 Blog Pulse</h3>
+
+<p>
+Modern open-source<br>
+WordPress theme.
+</p>
+
+<a href="https://github.com/Agutroil/blog-pulse">
+  <strong>Explore Blog Pulse →</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Agutroil?tab=repositories">
+    <strong>🚀 View all repositories →</strong>
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    🐧 Linux · 💻 Development · 🎮 Games · 🌍 Open Source · 🪄 Magic
+  </sub>
+</p>
+
+<p align="center">
+  ✦ ─────────────── ✦ ─────────────── ✦
+</p>
 
 <details>
 <summary><strong>🧙 Mehr über Agutroil</strong></summary>
@@ -521,7 +787,7 @@ umfangreiche Gameplay- und Progressionssysteme.
 
 <p>
 <strong>Agutroil</strong> ist meine Entwickleridentität für Projekte rund um
-Linux, Softwareentwicklung, Games, Open Source und technische Experimente.
+Linux, Softwareentwicklung, Games, Web Development, Open Source und technische Experimente.
 </p>
 
 <p>
@@ -532,6 +798,12 @@ verändern und selbst etwas damit erschaffen.
 <p>
 Dabei kombiniere ich klassische Softwareentwicklung mit modernen
 Automatisierungs- und KI-Werkzeugen.
+</p>
+
+<p>
+Mit Projekten wie <strong>Nythara</strong>, <strong>MedCore</strong> und
+<strong>Blog Pulse</strong> veröffentliche ich zunehmend eigene Projekte
+als Open Source und dokumentiere ihre Entwicklung auf GitHub.
 </p>
 
 </details>
