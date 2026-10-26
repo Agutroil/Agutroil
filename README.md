@@ -1,3 +1,4 @@
+````markdown
 <!--
 =============================================================================
   AGUTROIL · GITHUB PROFILE README
@@ -522,6 +523,63 @@ Modernes und responsives WordPress-Theme für Blogs und Magazine.
 
 </tr>
 </table>
+
+---
+
+# 🚗 Auto Abenteuer
+
+<p align="center">
+  <img
+    src="./assets/Auto-Abenteuer-banner.png"
+    alt="Auto Abenteuer – kinderfreundliches Fahr- und Sammelspiel"
+    width="100%"
+  />
+</p>
+
+<h2 align="center">Auto Abenteuer</h2>
+
+<p align="center">
+  <strong>Ein kinderfreundliches Fahr- und Sammelspiel für Android.</strong>
+</p>
+
+<p align="center">
+  <em>Fahre. Sammle. Entdecke.</em>
+</p>
+
+**Auto Abenteuer** ist ein buntes, leicht zugängliches Spiel, das speziell als
+kinderfreundliches Spielerlebnis entwickelt wurde.
+
+Kinder können mit ihrem Auto verschiedene Strecken erkunden, Münzen sammeln,
+Checkpoints erreichen, kleine Herausforderungen meistern und die farbenfrohe
+Spielwelt entdecken.
+
+Der Fokus liegt auf einer einfachen Steuerung, verständlichen Spielmechaniken
+und einem entspannten Spielerlebnis ohne störende Ablenkungen.
+
+- 🚗 einfache, kinderfreundliche Fahrzeugsteuerung
+- 🪙 Münzen sammeln
+- 🌳 bunte Low-Poly-Spielwelt
+- 🏁 Checkpoints und verschiedene Strecken
+- 🛝 Rampen und Sprünge
+- 🛠️ Garage und Fahrzeuge
+- 💾 Spielstand speichern
+- 📱 für Android entwickelt
+- 🎮 mit Godot entwickelt
+- 👨‍👩‍👧 für Kinder und Familien gedacht
+- 🚫 **ohne Werbung**
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1J6u5X2Q61ojrOiWqvZtYS0jnAr8jwN92/view?usp=drive_link">
+    <img
+      src="https://img.shields.io/badge/Google_Drive-Auto_Abenteuer_APK-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
+      alt="Auto Abenteuer APK über Google Drive herunterladen"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>👶 Kinderfreundlich · 🚫 Werbefrei · 📱 Android · 🎮 Godot</sub>
+</p>
 
 ---
 
@@ -1091,3 +1149,4 @@ Mich interessiert vielmehr:
     © Anton Deister · Agutroil
   </sub>
 </p>
+````
