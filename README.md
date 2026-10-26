@@ -57,6 +57,9 @@ Important:
   <a href="https://github.com/Agutroil/Nythara">
     <img src="https://img.shields.io/badge/Nythara-Game_Development-7C3AED?style=flat-square" alt="Nythara">
   </a>
+  <a href="https://github.com/Agutroil/Aura">
+    <img src="https://img.shields.io/badge/Aura-Secure_Messaging-0891B2?style=flat-square" alt="Aura">
+  </a>
   <img src="https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian Linux">
   <img src="https://img.shields.io/badge/Game_Engine-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/Open_Source-❤-22C55E?style=flat-square" alt="Open Source">
@@ -80,13 +83,14 @@ Ich beschäftige mich mit:
 - 🌍 **Open Source**
 - 🎮 **Game Development**
 - 🌐 **Web Development**
+- 🔐 **Security-focused Development**
 - 🤖 **AI-assisted Development**
 - ⚙️ **Automatisierung**
 - 🧪 **technischen Experimenten**
 
 Besonders spannend finde ich Projekte, bei denen aus einer Idee Schritt für Schritt etwas Eigenständiges entsteht.
 
-Das kann ein Spiel, eine Anwendung, ein WordPress-Theme, ein Developer Tool, eine automatisierte Pipeline oder einfach ein technisches Experiment sein.
+Das kann ein Spiel, eine Webanwendung, ein Secure-Messaging-System, ein WordPress-Theme, ein Developer Tool, eine automatisierte Pipeline oder einfach ein technisches Experiment sein.
 
 Ich möchte Technologien nicht nur **benutzen**, sondern verstehen, verändern und daraus eigene Systeme bauen.
 
@@ -112,6 +116,7 @@ Ich möchte Technologien nicht nur **benutzen**, sondern verstehen, verändern u
 
 <kbd>🐧 Linux</kbd>
 <kbd>🎮 Games</kbd>
+<kbd>🔐 Security</kbd>
 <kbd>🌍 Open Source</kbd>
 <kbd>💻 Development</kbd>
 
@@ -125,7 +130,7 @@ Ich möchte Technologien nicht nur **benutzen**, sondern verstehen, verändern u
 ## ✦ Agutroil
 
 <p align="center">
-  <strong>Agutroil</strong> ist meine Entwickleridentität für Projekte rund um Softwareentwicklung, Linux, Games, Open Source und technische Experimente.
+  <strong>Agutroil</strong> ist meine Entwickleridentität für Projekte rund um Softwareentwicklung, Linux, Games, Web, Security, Open Source und technische Experimente.
 </p>
 
 <p align="center">
@@ -134,6 +139,8 @@ Ich möchte Technologien nicht nur **benutzen**, sondern verstehen, verändern u
   🐧 <strong>Linux</strong>
   &nbsp;·&nbsp;
   🎮 <strong>Games</strong>
+  &nbsp;·&nbsp;
+  🔐 <strong>Security</strong>
   &nbsp;·&nbsp;
   🌍 <strong>Open Source</strong>
   &nbsp;·&nbsp;
@@ -205,6 +212,27 @@ Ich arbeite mit modernen Web-Technologien und entwickle Webanwendungen, Websites
 
 <td width="50%" valign="top">
 
+### 🔐 Secure Applications
+
+Mit Projekten wie **Aura** beschäftige ich mich auch mit sicherheitsorientierten Webanwendungen und Kommunikationssystemen.
+
+**Bereiche:**
+
+- End-to-End Encryption
+- Secure Messaging
+- Identity Verification
+- Tamper-Evident History
+- Realtime Communication
+- WebSockets
+- Security Testing
+- Privacy
+- Auditability
+- Defensive Architecture
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🐧 Linux
 
 Linux ist ein zentraler Bestandteil meiner Entwicklungsumgebung.
@@ -222,6 +250,10 @@ Ich arbeite unter anderem mit:
 Ich mag Systeme, die transparent, nachvollziehbar und kontrollierbar bleiben.
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -241,6 +273,25 @@ Dazu gehören:
 - KI-gestützte Entwicklungswerkzeuge
 
 KI soll für mich nicht nur Code erzeugen, sondern Teil eines kontrollierten Entwicklungsprozesses sein.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 Open Source
+
+Ich veröffentliche eigene Projekte offen auf GitHub und versuche dabei nicht nur den Code, sondern auch den Entwicklungsprozess nachvollziehbar zu machen.
+
+Dazu gehören:
+
+- Dokumentation
+- reproduzierbare Builds
+- CI
+- automatisierte Tests
+- Security Checks
+- nachvollziehbare Architektur
+- öffentliche Roadmaps
+- transparente Entwicklungsberichte
 
 </td>
 
@@ -322,6 +373,86 @@ Der Fokus liegt auf dem Aufbau einer größeren Fantasy-Spielwelt und den System
 <p align="center">
   <sub>🚧 Active Development · 🌍 Open Source</sub>
 </p>
+
+---
+
+# 🔐 Featured Security Project — Aura
+
+<p align="center">
+  <a href="https://github.com/Agutroil/Aura">
+    <img src="https://img.shields.io/badge/PROJECT-AURA-0891B2?style=for-the-badge" alt="Aura Project">
+  </a>
+</p>
+
+<h2 align="center">Aura</h2>
+
+<p align="center">
+  <strong>End-to-End Encrypted Messaging with Tamper-Evident History</strong>
+</p>
+
+<p align="center">
+  <em>Sealed conversations. Verified identities. Auditable history.</em>
+</p>
+
+**Aura** ist mein Open-Source-Projekt rund um sichere Echtzeitkommunikation.
+
+Der Fokus liegt auf einem nachvollziehbaren Security-Modell statt auf übertriebenen Sicherheitsversprechen.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 Security & Messaging
+
+- 🔒 End-to-End Encryption
+- 🛡️ Identity Verification
+- 🔗 tamper-evident Message History
+- ✍️ signierte Nachrichtenhistorie
+- 💬 Realtime Messaging
+- 👥 Group Chats
+- 🔎 Message Search
+- 📱 Responsive Mobile UI
+- 👤 Presence
+- 🔐 Safety Numbers
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧰 Technology
+
+- Next.js
+- React
+- TypeScript
+- MySQL
+- Redis
+- WebSockets
+- Cryptographic Key Management
+- Automated Security Tests
+- Integration Tests
+- Playwright E2E
+- GitHub Actions
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Agutroil/Aura">
+    <img src="https://img.shields.io/badge/Explore_Aura-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Aura on GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Development-0891B2?style=flat-square" alt="Aura Active Development">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="Aura MIT License">
+  <img src="https://img.shields.io/badge/Security-Focused-16A34A?style=flat-square" alt="Security Focused">
+</p>
+
+> [!IMPORTANT]
+> Aura is an actively developed security-focused project. It includes automated security, integration and end-to-end testing, but has not yet undergone an independent professional security audit.
 
 ---
 
@@ -456,6 +587,20 @@ Modernes und responsives WordPress-Theme für Blogs und Magazine.
 
 <td width="33%" valign="top">
 
+### 🔐 Security & Realtime
+
+<p>
+  <img src="https://img.shields.io/badge/E2EE-Secure_Messaging-0891B2?style=flat-square" alt="E2EE">
+  <img src="https://img.shields.io/badge/WebSockets-Realtime-111827?style=flat-square" alt="WebSockets">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Security_Testing-16A34A?style=flat-square" alt="Security Testing">
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
 ### 🛠️ Development Tools
 
 <p>
@@ -467,6 +612,10 @@ Modernes und responsives WordPress-Theme für Blogs und Magazine.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="33%" valign="top">
 
 ### 🤖 AI & Automation
@@ -476,6 +625,30 @@ Modernes und responsives WordPress-Theme für Blogs und Magazine.
   <img src="https://img.shields.io/badge/AI_Workflows-7C3AED?style=flat-square" alt="AI Workflows">
   <img src="https://img.shields.io/badge/Asset_Pipelines-0891B2?style=flat-square" alt="Asset Pipelines">
   <img src="https://img.shields.io/badge/Automated_Testing-16A34A?style=flat-square" alt="Automated Testing">
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧪 Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌍 Open Source
+
+<p>
+  <img src="https://img.shields.io/badge/Open_Source-Projects-16A34A?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source">
+  <img src="https://img.shields.io/badge/Documentation-Project_Docs-2563EB?style=flat-square" alt="Documentation">
+  <img src="https://img.shields.io/badge/Automation-Reproducible_Workflows-7C3AED?style=flat-square" alt="Reproducible Workflows">
 </p>
 
 </td>
@@ -500,6 +673,8 @@ Implementation
   ↓
 Testing
   ↓
+Security
+  ↓
 Validation
   ↓
 Documentation
@@ -516,11 +691,12 @@ Improve
 3. 🏗️ Architektur planen
 4. 💻 modular implementieren
 5. 🧪 Tests schreiben und ausführen
-6. ⚙️ automatisierte Validierung verwenden
-7. 🚀 Performance prüfen
-8. 📖 Änderungen dokumentieren
-9. 🔐 keine Secrets oder sensiblen Daten committen
-10. 🌍 Änderungen über Git und GitHub nachvollziehbar veröffentlichen
+6. 🔐 Security-Grenzen prüfen
+7. ⚙️ automatisierte Validierung verwenden
+8. 🚀 Performance prüfen
+9. 📖 Änderungen dokumentieren
+10. 🔑 keine Secrets oder sensiblen Daten committen
+11. 🌍 Änderungen über Git und GitHub nachvollziehbar veröffentlichen
 
 ---
 
@@ -559,6 +735,7 @@ Ich experimentiere intensiv damit, wie Coding Agents in echte Softwareprojekte i
 - Git-basierte Workflows
 - CI-Integration
 - Game Development mit Coding Agents
+- Security Testing mit automatisierten Workflows
 
 Für mich sollte KI nicht einfach:
 
@@ -577,6 +754,7 @@ sondern möglichst Teil eines **kontrollierten, überprüfbaren und reproduzierb
 
 ### 🎮 Game Development
 
+- Nythara weiterentwickeln
 - größere Godot-Spielwelten
 - World Building
 - Multiplayer-Architektur
@@ -596,7 +774,8 @@ sondern möglichst Teil eines **kontrollierten, überprüfbaren und reproduzierb
 
 ### ⚙️ Development & Open Source
 
-- Nythara weiterentwickeln
+- Aura weiterentwickeln
+- Security-focused Development
 - Open-Source-Projekte ausbauen
 - MedCore weiterentwickeln
 - WordPress-Projekte
@@ -672,6 +851,8 @@ Wichtig ist, dass man daraus lernt und weiterbaut.
   <kbd>🐧 Linux</kbd>
   <kbd>🎮 Game Engines</kbd>
   <kbd>🌐 Multiplayer</kbd>
+  <kbd>🔐 Security</kbd>
+  <kbd>💬 Realtime</kbd>
   <kbd>🤖 AI Agents</kbd>
   <kbd>🧠 Developer Tools</kbd>
   <kbd>⚙️ Automation</kbd>
@@ -689,28 +870,29 @@ Wichtig ist, dass man daraus lernt und weiterbaut.
 # 🧭 Development Areas
 
 ```text
-                    Agutroil
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-        ▼              ▼              ▼
-      Linux          Games           Web
-        │              │              │
-     Debian          Godot          React
-     Shell          GDScript      TypeScript
-     Git            Multiplayer    Next.js
-        │              │          WordPress
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                       ▼
-                 Open Source
-                       │
-                       ▼
-                AI Workflows
-                       │
-                       ▼
-                  Automation
+                           Agutroil
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
+        Linux               Games                Web
+          │                   │                   │
+       Debian              Godot               React
+       Shell              GDScript          TypeScript
+       Git               Multiplayer          Next.js
+          │                   │              WordPress
+          │                   │                   │
+          └──────────────┬────┴────┬──────────────┘
+                         │         │
+                         ▼         ▼
+                    Security   Open Source
+                         │         │
+                         └────┬────┘
+                              ▼
+                         AI Workflows
+                              │
+                              ▼
+                         Automation
 ```
 
 ---
@@ -720,7 +902,7 @@ Wichtig ist, dass man daraus lernt und weiterbaut.
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🌌 Nythara
 
@@ -733,7 +915,20 @@ with Godot.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+### 🔐 Aura
+
+Secure Messaging  
+with E2EE.
+
+<a href="https://github.com/Agutroil/Aura">
+  <strong>Explore Aura →</strong>
+</a>
+
+</td>
+
+<td align="center" width="25%">
 
 ### 🩺 MedCore
 
@@ -746,7 +941,7 @@ Platform.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 📰 Blog Pulse
 
@@ -782,6 +977,9 @@ WordPress Theme.
   <a href="https://github.com/Agutroil/Nythara">
     <img src="https://img.shields.io/badge/Nythara-Explore-7C3AED?style=for-the-badge" alt="Nythara">
   </a>
+  <a href="https://github.com/Agutroil/Aura">
+    <img src="https://img.shields.io/badge/Aura-Explore-0891B2?style=for-the-badge" alt="Aura">
+  </a>
 </p>
 
 ---
@@ -798,6 +996,7 @@ WordPress Theme.
 - Softwareentwicklung
 - Game Development
 - Web Development
+- Security
 - Open Source
 - Automatisierung
 - Coding Agents
@@ -805,9 +1004,9 @@ WordPress Theme.
 
 Ich möchte Technologien nicht nur benutzen, sondern verstehen, verändern und selbst etwas damit erschaffen.
 
-Dabei kombiniere ich klassische Softwareentwicklung zunehmend mit modernen Automatisierungs- und KI-Werkzeugen.
+Dabei kombiniere ich klassische Softwareentwicklung zunehmend mit modernen Automatisierungs-, Security- und KI-Werkzeugen.
 
-Mit Projekten wie **Nythara**, **MedCore** und **Blog Pulse** veröffentliche ich eigene Projekte als Open Source und dokumentiere ihre Entwicklung auf GitHub.
+Mit Projekten wie **Nythara**, **Aura**, **MedCore** und **Blog Pulse** veröffentliche ich eigene Projekte als Open Source und dokumentiere ihre Entwicklung auf GitHub.
 
 Mein Ziel ist nicht, mich auf genau eine Technologie festzulegen.
 
@@ -828,6 +1027,8 @@ Mich interessiert vielmehr:
   &nbsp;·&nbsp;
   <strong>Creating games.</strong>
   &nbsp;·&nbsp;
+  <strong>Building secure systems.</strong>
+  &nbsp;·&nbsp;
   <strong>Sharing ideas.</strong>
   &nbsp;·&nbsp;
   <strong>Learning by building.</strong>
@@ -838,6 +1039,7 @@ Mich interessiert vielmehr:
   <kbd>Code</kbd>
   <kbd>Linux</kbd>
   <kbd>Games</kbd>
+  <kbd>Security</kbd>
   <kbd>Open Source</kbd>
   <kbd>Automation</kbd>
 </p>
@@ -864,6 +1066,7 @@ Mich interessiert vielmehr:
   <kbd>💻 CODE</kbd>
   <kbd>🐧 LINUX</kbd>
   <kbd>🎮 GAMES</kbd>
+  <kbd>🔐 SECURITY</kbd>
   <kbd>🌍 OPEN SOURCE</kbd>
   <kbd>🤖 AI</kbd>
   <kbd>🪄 MAGIC</kbd>
