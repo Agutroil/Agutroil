@@ -66,16 +66,55 @@ Besonders spannend finde ich Projekte, bei denen aus einer Idee Schritt für Sch
 
 ### ✦ Meine Schwerpunkte
 
-- 💻 **Softwareentwicklung**
-- 🐧 **Linux & Debian**
-- 🎮 **Game Development**
-- 🌐 **Web Development**
-- 🔐 **Security-focused Development**
-- 🤖 **AI-assisted Development**
-- ⚙️ **Automatisierung**
-- 🧪 **Testing & Validation**
-- 🏗️ **Software Architecture**
-- 🛠️ **Developer Tools**
+<p>
+  <strong>💻 Softwareentwicklung</strong><br>
+  <sub>Von der Idee bis zu funktionierenden, wartbaren Anwendungen und technischen Systemen.</sub>
+</p>
+
+<p>
+  <strong>🐧 Linux & Debian</strong><br>
+  <sub>Debian als tägliche Entwicklungsumgebung mit Shell, CLI-Workflows und technischem Systemverständnis.</sub>
+</p>
+
+<p>
+  <strong>🎮 Game Development</strong><br>
+  <sub>Gameplay-Systeme, Welten, Multiplayer, Progression und langfristig erweiterbare Spielarchitektur.</sub>
+</p>
+
+<p>
+  <strong>🌐 Web Development</strong><br>
+  <sub>Moderne Websites und Webanwendungen mit Fokus auf klare Strukturen, Bedienbarkeit und technische Qualität.</sub>
+</p>
+
+<p>
+  <strong>🔐 Security-focused Development</strong><br>
+  <sub>Sicherheit als Bestandteil der Architektur – von Eingabevalidierung bis zu Netzwerk- und Zugriffskontrollen.</sub>
+</p>
+
+<p>
+  <strong>🤖 AI-assisted Development</strong><br>
+  <sub>Coding Agents und KI-Werkzeuge als kontrollierte Unterstützung innerhalb realer Entwicklungsprozesse.</sub>
+</p>
+
+<p>
+  <strong>⚙️ Automatisierung</strong><br>
+  <sub>Wiederkehrende Aufgaben durch Skripte, Pipelines und reproduzierbare Workflows vereinfachen.</sub>
+</p>
+
+<p>
+  <strong>🧪 Testing & Validation</strong><br>
+  <sub>Automatisierte Tests, Regression Checks und klare Qualitäts-Gates für verlässliche Änderungen.</sub>
+</p>
+
+<p>
+  <strong>🏗️ Software Architecture</strong><br>
+  <sub>Systeme modular planen, Verantwortlichkeiten sauber trennen und Erweiterbarkeit langfristig erhalten.</sub>
+</p>
+
+<p>
+  <strong>🛠️ Developer Tools</strong><br>
+  <sub>Eigene Werkzeuge, Bridges und Hilfssysteme entwickeln, die Entwicklungsabläufe schneller und sicherer machen.</sub>
+</p>
 
 Ich möchte Technologien nicht nur benutzen, sondern verstehen, verändern und daraus eigene Systeme bauen.
 
