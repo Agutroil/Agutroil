@@ -31,24 +31,13 @@ GitHub paths are case-sensitive.
   Developer · Linux Enthusiast · Game Developer · Technology Enthusiast
 </h3>
 
-<p align="center">
-  <strong>@Agutroil</strong>
-</p>
+<p align="center"><strong>@Agutroil</strong></p>
+<p align="center"><em>Code. Linux. Games. Technology. Magic.</em></p>
 
 <p align="center">
-  <em>Code. Linux. Games. Technology. Magic.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Agutroil">
-    <img src="https://img.shields.io/badge/GitHub-Agutroil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Agutroil" />
-  </a>
-  <a href="https://agutroil.github.io/">
-    <img src="https://img.shields.io/badge/Website-agutroil.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Agutroil Website" />
-  </a>
-  <a href="https://agutroil.github.io/Nythara/">
-    <img src="https://img.shields.io/badge/Nythara-Project_Website-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara Website" />
-  </a>
+  <a href="https://github.com/Agutroil"><img src="https://img.shields.io/badge/GitHub-Agutroil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Agutroil" /></a>
+  <a href="https://agutroil.github.io/"><img src="https://img.shields.io/badge/Website-agutroil.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Agutroil Website" /></a>
+  <a href="https://agutroil.github.io/Nythara/"><img src="https://img.shields.io/badge/Nythara-Project_Website-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara Website" /></a>
 </p>
 
 <p align="center">
@@ -288,19 +277,12 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 
 <p align="center">
   <a href="https://agutroil.github.io/Nythara/">
-    <img
-      src="https://agutroil.github.io/Nythara/assets/nythara-banner.png"
-      alt="Nythara — A 2D MMORPG in a 3D fantasy world"
-      width="100%"
-    />
+    <img src="https://agutroil.github.io/Nythara/assets/nythara-banner.png" alt="Nythara — A 2D MMORPG in a 3D fantasy world" width="100%" />
   </a>
 </p>
 
 <h2 align="center">A 2D MMORPG inside an immersive 3D fantasy world.</h2>
-
-<p align="center">
-  <em>Explore · Fight · Progress · Build · Connect</em>
-</p>
+<p align="center"><em>Explore · Fight · Progress · Build · Connect</em></p>
 
 <p align="center">
   <strong>Nythara</strong> ist mein größtes aktuelles Game-Development-Projekt.<br>
@@ -308,9 +290,7 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 </p>
 
 <p align="center">
-  <a href="https://agutroil.github.io/Nythara/">
-    <img src="https://img.shields.io/badge/Nythara_entdecken-Official_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nythara entdecken" />
-  </a>
+  <a href="https://agutroil.github.io/Nythara/"><img src="https://img.shields.io/badge/Nythara_entdecken-Official_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nythara entdecken" /></a>
 </p>
 
 <table>
@@ -319,221 +299,42 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 
 <h3>⚔️ Gameplay & World</h3>
 
-<p>
-  <strong>🌍 Fantasy-Regionen</strong><br>
-  <sub>Eigene Gebiete, Biome und miteinander verbundene Fantasy-Welten.</sub>
-</p>
-
-<p>
-  <strong>🌐 Multiplayer</strong><br>
-  <sub>Gemeinsame Spielwelt mit persistenten Charakteren und serverseitiger Autorität.</sub>
-</p>
-
-<p>
-  <strong>⚔️ Combat</strong><br>
-  <sub>Echtzeitkämpfe mit Skills, Gegner-Archetypen, Telegraphs und Bossmechaniken.</sub>
-</p>
-
-<p>
-  <strong>🌀 Portale & Reisen</strong><br>
-  <sub>Reisen zwischen Regionen über Weltübergänge, Portale und freigeschaltete Wege.</sub>
-</p>
-
-<p>
-  <strong>👹 Monster & Bosse</strong><br>
-  <sub>Unterschiedliche Kreaturen, Elite-Gegner und mehrphasige Bossbegegnungen.</sub>
-</p>
-
-<p>
-  <strong>🏰 Städte & Dungeons</strong><br>
-  <sub>Städte, Quest-Hubs und handgebaute Dungeons mit eigener Progression.</sub>
-</p>
-
-<p>
-  <strong>🗡️ Items & Equipment</strong><br>
-  <sub>Loot, Ausrüstung, Seltenheiten, Werte und sichtbare Equipment-Systeme.</sub>
-</p>
-
-<p>
-  <strong>🎒 Inventar</strong><br>
-  <sub>Persistente Verwaltung von Items, Ausrüstung, Materialien und Belohnungen.</sub>
-</p>
-
-<p>
-  <strong>🧙 Charakter-Systeme</strong><br>
-  <sub>Attribute, Builds, Charakterzustand und langfristige Entwicklung.</sub>
-</p>
-
-<p>
-  <strong>📈 Skills & Progression</strong><br>
-  <sub>XP, Level, Skill-Ränge, Loadouts und freischaltbare Charakterentwicklung.</sub>
-</p>
-
-<p>
-  <strong>📜 Quests</strong><br>
-  <sub>NPCs, Dialoge, Ziele, Freischaltungen und persistente Quest-Fortschritte.</sub>
-</p>
-
-<p>
-  <strong>💰 Economy</strong><br>
-  <sub>Sammeln, Crafting, Händler, Währung und ein wachsender Item-Kreislauf.</sub>
-</p>
+<p><strong>🌍 Fantasy-Regionen</strong><br><sub>Eigene Gebiete, Biome und miteinander verbundene Fantasy-Welten.</sub></p>
+<p><strong>🌐 Multiplayer</strong><br><sub>Gemeinsame Spielwelt mit persistenten Charakteren und serverseitiger Autorität.</sub></p>
+<p><strong>⚔️ Combat</strong><br><sub>Echtzeitkämpfe mit Skills, Gegner-Archetypen, Telegraphs und Bossmechaniken.</sub></p>
+<p><strong>🌀 Portale & Reisen</strong><br><sub>Reisen zwischen Regionen über Weltübergänge, Portale und freigeschaltete Wege.</sub></p>
+<p><strong>👹 Monster & Bosse</strong><br><sub>Unterschiedliche Kreaturen, Elite-Gegner und mehrphasige Bossbegegnungen.</sub></p>
+<p><strong>🏰 Städte & Dungeons</strong><br><sub>Städte, Quest-Hubs und handgebaute Dungeons mit eigener Progression.</sub></p>
+<p><strong>🗡️ Items & Equipment</strong><br><sub>Loot, Ausrüstung, Seltenheiten, Werte und sichtbare Equipment-Systeme.</sub></p>
+<p><strong>🎒 Inventar</strong><br><sub>Persistente Verwaltung von Items, Ausrüstung, Materialien und Belohnungen.</sub></p>
+<p><strong>🧙 Charakter-Systeme</strong><br><sub>Attribute, Builds, Charakterzustand und langfristige Entwicklung.</sub></p>
+<p><strong>📈 Skills & Progression</strong><br><sub>XP, Level, Skill-Ränge, Loadouts und freischaltbare Charakterentwicklung.</sub></p>
+<p><strong>📜 Quests</strong><br><sub>NPCs, Dialoge, Ziele, Freischaltungen und persistente Quest-Fortschritte.</sub></p>
+<p><strong>💰 Economy</strong><br><sub>Sammeln, Crafting, Händler, Währung und ein wachsender Item-Kreislauf.</sub></p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 <h3>🧰 Technology & Development</h3>
 
-<p>
-  <strong>🎮 Godot 4.7.2</strong><br>
-  <sub>Die zentrale Engine für Gameplay, Welt, UI und Multiplayer.</sub>
-</p>
-
-<p>
-  <strong>📜 GDScript</strong><br>
-  <sub>Gameplay-Systeme, Tools, Tests und Runtime-Logik.</sub>
-</p>
-
-<p>
-  <strong>🌐 ENet Multiplayer</strong><br>
-  <sub>Netzwerkbasis für echte Clients, Server-Sessions und gemeinsame Welten.</sub>
-</p>
-
-<p>
-  <strong>🛡️ Server Authority</strong><br>
-  <sub>Serverseitige Kontrolle über Combat, Fortschritt, Weltzustand und Charakterdaten.</sub>
-</p>
-
-<p>
-  <strong>🖥️ GL Compatibility</strong><br>
-  <sub>Breite Hardware-Unterstützung mit Fokus auf ältere PCs und schwache iGPUs.</sub>
-</p>
-
-<p>
-  <strong>🎨 Asset Management</strong><br>
-  <sub>Zentrale Verwaltung von Sprites, Icons, Equipment und Welt-Assets.</sub>
-</p>
-
-<p>
-  <strong>🧩 Content Pipelines</strong><br>
-  <sub>Strukturierte Daten für Items, Monster, Loot, Regionen und Gameplay-Content.</sub>
-</p>
-
-<p>
-  <strong>🧪 Automated Testing</strong><br>
-  <sub>Umfangreiche automatisierte Gameplay-, Netzwerk-, World- und Regressionstests.</sub>
-</p>
-
-<p>
-  <strong>🌉 AI Bridge</strong><br>
-  <sub>Werkzeuge für kontrollierte Agent-Interaktion mit Godot und Entwicklungsabläufen.</sub>
-</p>
-
-<p>
-  <strong>🤖 Coding Agents</strong><br>
-  <sub>Agent-gestützte Entwicklung innerhalb eines testbaren Git- und Review-Workflows.</sub>
-</p>
-
-<p>
-  <strong>🔄 CI</strong><br>
-  <sub>Automatische Validierung und Qualitäts-Gates über GitHub Actions.</sub>
-</p>
-
-<p>
-  <strong>⚡ Low-End Performance</strong><br>
-  <sub>Ressourcenschonende Architektur, skalierbare Präsentation und bewusst begrenzte Effekte.</sub>
-</p>
+<p><strong>🎮 Godot 4.7.2</strong><br><sub>Die zentrale Engine für Gameplay, Welt, UI und Multiplayer.</sub></p>
+<p><strong>📜 GDScript</strong><br><sub>Gameplay-Systeme, Tools, Tests und Runtime-Logik.</sub></p>
+<p><strong>🌐 ENet Multiplayer</strong><br><sub>Netzwerkbasis für echte Clients, Server-Sessions und gemeinsame Welten.</sub></p>
+<p><strong>🛡️ Server Authority</strong><br><sub>Serverseitige Kontrolle über Combat, Fortschritt, Weltzustand und Charakterdaten.</sub></p>
+<p><strong>🖥️ GL Compatibility</strong><br><sub>Breite Hardware-Unterstützung mit Fokus auf ältere PCs und schwache iGPUs.</sub></p>
+<p><strong>🎨 Asset Management</strong><br><sub>Zentrale Verwaltung von Sprites, Icons, Equipment und Welt-Assets.</sub></p>
+<p><strong>🧩 Content Pipelines</strong><br><sub>Strukturierte Daten für Items, Monster, Loot, Regionen und Gameplay-Content.</sub></p>
+<p><strong>🧪 Automated Testing</strong><br><sub>Umfangreiche automatisierte Gameplay-, Netzwerk-, World- und Regressionstests.</sub></p>
+<p><strong>🌉 AI Bridge</strong><br><sub>Werkzeuge für kontrollierte Agent-Interaktion mit Godot und Entwicklungsabläufen.</sub></p>
+<p><strong>🤖 Coding Agents</strong><br><sub>Agent-gestützte Entwicklung innerhalb eines testbaren Git- und Review-Workflows.</sub></p>
+<p><strong>🔄 CI</strong><br><sub>Automatische Validierung und Qualitäts-Gates über GitHub Actions.</sub></p>
+<p><strong>⚡ Low-End Performance</strong><br><sub>Ressourcenschonende Architektur, skalierbare Präsentation und bewusst begrenzte Effekte.</sub></p>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <sub>Weitere Informationen, aktuelle Entwicklung, Welt, Kreaturen, Dungeons und Datenbank findest du auf der offiziellen Nythara-Webseite.</sub>
-</p>
-
----
-
-# ⚙️ How I Build
-
-```text
-Idea
-  ↓
-Architecture
-  ↓
-Implementation
-  ↓
-Testing
-  ↓
-Security
-  ↓
-Performance
-  ↓
-Validation
-  ↓
-Documentation
-  ↓
-Improve
-```
-
-Mein Ziel ist ein Entwicklungsprozess, bei dem Änderungen nachvollziehbar, testbar und reproduzierbar bleiben.
-
----
-
-# 🤖 Coding Agents
-
-Ich experimentiere intensiv mit Coding Agents und ihrer Integration in reale Entwicklungsprojekte.
-
-<p align="center">
-  <kbd>Developer</kbd>
-  &nbsp; + &nbsp;
-  <kbd>Coding Agent</kbd>
-  &nbsp; + &nbsp;
-  <kbd>Tests</kbd>
-  &nbsp; + &nbsp;
-  <kbd>Git</kbd>
-  &nbsp; + &nbsp;
-  <kbd>CI</kbd>
-  &nbsp; + &nbsp;
-  <kbd>Automation</kbd>
-</p>
-
-Für mich sollte KI nicht einfach Code erzeugen, sondern Bestandteil eines **kontrollierten, überprüfbaren und reproduzierbaren Entwicklungsprozesses** sein.
-
----
-
-# 🔬 Currently Exploring
-
-<p align="center">
-  <kbd>🐧 Linux</kbd>
-  <kbd>🎮 Godot</kbd>
-  <kbd>🌐 Multiplayer</kbd>
-  <kbd>🔐 Security</kbd>
-  <kbd>🤖 AI Agents</kbd>
-  <kbd>⚙️ Automation</kbd>
-  <kbd>🧠 Developer Tools</kbd>
-  <kbd>🧪 Testing</kbd>
-  <kbd>🌍 Web</kbd>
-  <kbd>📦 Builds</kbd>
-  <kbd>🎨 Assets</kbd>
-  <kbd>🔧 Git</kbd>
-</p>
-
----
-
-# 🔗 Find Me
-
-<p align="center">
-  <a href="https://github.com/Agutroil">
-    <img src="https://img.shields.io/badge/GitHub-@Agutroil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://agutroil.github.io/">
-    <img src="https://img.shields.io/badge/Website-agutroil.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://agutroil.github.io/Nythara/">
-    <img src="https://img.shields.io/badge/Nythara-Website-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara" />
-  </a>
-</p>
+<p align="center"><sub>Weitere Informationen, aktuelle Entwicklung, Welt, Kreaturen, Dungeons und Datenbank findest du auf der offiziellen Nythara-Webseite.</sub></p>
 
 ---
 
@@ -541,19 +342,14 @@ Für mich sollte KI nicht einfach Code erzeugen, sondern Bestandteil eines **kon
   <img src="./assets/agutroil-banner.png" alt="Agutroil – Code Linux Magic" width="100%" />
 </p>
 
-<h2 align="center">
-  🐧 Powered by Linux
-  &nbsp; ✦ &nbsp;
-  🪄 Crafted by Agutroil
-</h2>
+<h2 align="center">🐧 Powered by Linux &nbsp; ✦ &nbsp; 🪄 Crafted by Agutroil</h2>
 
 <p align="center">
-  <kbd>💻 CODE</kbd>
-  <kbd>🐧 LINUX</kbd>
-  <kbd>🎮 GAMES</kbd>
-  <kbd>🔐 SECURITY</kbd>
-  <kbd>🤖 AI</kbd>
-  <kbd>⚙️ AUTOMATION</kbd>
+  <img src="https://img.shields.io/badge/Debian-Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Powered by Debian Linux" />
+  <img src="https://img.shields.io/badge/Godot-Game_Development-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Game Development" />
+  <img src="https://img.shields.io/badge/Agutroil-Developer-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Agutroil Developer" />
 </p>
 
-<h3 align="center">Code. Linux. Magic.</h3>
+<h3 align="center">💻 Code. &nbsp; 🐧 Linux. &nbsp; 🪄 Magic.</h3>
+
+<p align="center"><sub>Built with curiosity, persistence and a lot of Linux.</sub></p>
