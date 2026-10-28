@@ -93,28 +93,21 @@ Ich möchte Technologien nicht nur benutzen, sondern verstehen, verändern und d
 
 <img src="./assets/antondeister.png" alt="Anton Deister" width="220" />
 
-<br>
-
-### Anton Deister
-
-`@Agutroil`
-
-<sub>Developer · Linux · Games · Technology</sub>
-
-<br><br>
-
-<kbd>🐧 Linux</kbd>
-<kbd>🎮 Games</kbd>
-
-<br><br>
-
-<kbd>💻 Development</kbd>
-<kbd>🔐 Security</kbd>
-
-<br><br>
-
-<kbd>🤖 AI</kbd>
-<kbd>⚙️ Automation</kbd>
+<h3>Anton Deister</h3>
+<p><code>@Agutroil</code></p>
+<p><sub>Developer · Linux · Games · Technology</sub></p>
+<p>
+  <kbd>🐧 Linux</kbd>
+  <kbd>🎮 Games</kbd>
+</p>
+<p>
+  <kbd>💻 Development</kbd>
+  <kbd>🔐 Security</kbd>
+</p>
+<p>
+  <kbd>🤖 AI</kbd>
+  <kbd>⚙️ Automation</kbd>
+</p>
 
 </td>
 </tr>
