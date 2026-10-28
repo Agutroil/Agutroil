@@ -27,25 +27,27 @@ GitHub paths are case-sensitive.
 
 <h1 align="center">🧙‍♂️ Anton Deister</h1>
 
-<h3 align="center">
-  Developer · Linux Enthusiast · Game Developer · Technology Enthusiast
-</h3>
-
-<p align="center"><strong>@Agutroil</strong></p>
-<p align="center"><em>Code. Linux. Games. Technology. Magic.</em></p>
-
 <p align="center">
-  <a href="https://github.com/Agutroil"><img src="https://img.shields.io/badge/GitHub-Agutroil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Agutroil" /></a>
-  <a href="https://agutroil.github.io/"><img src="https://img.shields.io/badge/Website-agutroil.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Agutroil Website" /></a>
-  <a href="https://agutroil.github.io/Nythara/"><img src="https://img.shields.io/badge/Nythara-Project_Website-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara Website" /></a>
+  <strong>Developer · Linux Enthusiast · Game Developer · Technology Enthusiast</strong><br>
+  <code>@Agutroil</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian Linux" />
-  <img src="https://img.shields.io/badge/Game_Engine-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
+  <em>Code. Linux. Games. Technology. Magic.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Agutroil"><img src="https://img.shields.io/badge/GitHub-Agutroil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Agutroil" /></a>
+  <a href="https://agutroil.github.io/"><img src="https://img.shields.io/badge/Website-Agutroil-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Agutroil Website" /></a>
+  <a href="https://agutroil.github.io/Nythara/"><img src="https://img.shields.io/badge/Nythara-Project-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara Website" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian Linux" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/AI-Assisted_Development-7C3AED?style=flat-square" alt="AI Assisted Development" />
+  <img src="https://img.shields.io/badge/AI_Assisted-Development-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI Assisted Development" />
 </p>
 
 ---
