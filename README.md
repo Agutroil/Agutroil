@@ -379,12 +379,10 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
   <img src="./assets/agutroil-banner.png" alt="Agutroil – Code Linux Magic" width="100%" />
 </p>
 
-<p align="center">✦ &nbsp; 🪄 &nbsp; ✦</p>
+<hr>
 
 <h2 align="center"><em>“Every bug is just<br>an undocumented spell.”</em></h2>
 
 <p align="center">
   <strong>— Agutroil</strong>
 </p>
-
-<p align="center">✦ &nbsp; 🐧 &nbsp; ✦</p>
