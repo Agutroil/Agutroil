@@ -371,7 +371,17 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 </tr>
 </table>
 
-<p align="center"><sub>Weitere Informationen, aktuelle Entwicklung, Welt, Kreaturen, Dungeons und Datenbank findest du auf der offiziellen Nythara-Webseite.</sub></p>
+<table>
+<tr>
+<td align="center">
+
+<strong>ℹ️ Mehr über Nythara</strong><br><br>
+Weitere Informationen, aktuelle Entwicklung, Welt, Kreaturen, Dungeons und Datenbank findest du auf der offiziellen Nythara-Webseite.<br><br>
+<a href="https://agutroil.github.io/Nythara/"><strong>→ Nythara-Webseite öffnen</strong></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
