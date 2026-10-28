@@ -232,20 +232,18 @@ Ich möchte Technologien nicht nur benutzen, sondern verstehen, verändern und d
 
 Ich entwickle Spiele und Game-Systeme mit Fokus auf langfristig erweiterbare Architektur.
 
-**Schwerpunkte**
-
-- 🌍 World Building
-- 🌐 Multiplayer
-- ⚔️ Combat-Systeme
-- 🧙 Charakter-Systeme
-- 📈 Skills & Progression
-- 🎒 Inventar & Equipment
-- 📜 Quests
-- 👹 Monster & Bosse
-- 🏰 Dungeons
-- ⚡ Performance
-- 🎨 Asset Pipelines
-- 🛠️ Developer Tools
+<p><strong>🌍 World Building</strong><br><sub>Regionen, Städte, Dungeons und spielbare Räume so aufbauen, dass sie Orientierung, Atmosphäre und Gameplay verbinden.</sub></p>
+<p><strong>🌐 Multiplayer</strong><br><sub>Gemeinsame Spielwelten mit klaren Netzwerkgrenzen, persistentem Zustand und nachvollziehbarer Synchronisation.</sub></p>
+<p><strong>⚔️ Combat-Systeme</strong><br><sub>Kampfmechaniken mit Skills, Gegnerverhalten, Feedback, Trefferlogik und serverseitiger Autorität entwickeln.</sub></p>
+<p><strong>🧙 Charakter-Systeme</strong><br><sub>Attribute, Zustände, Builds und Charakterlogik modular und langfristig erweiterbar strukturieren.</sub></p>
+<p><strong>📈 Skills & Progression</strong><br><sub>Level, Erfahrung, Skill-Ränge und Freischaltungen zu einem nachvollziehbaren Fortschrittssystem verbinden.</sub></p>
+<p><strong>🎒 Inventar & Equipment</strong><br><sub>Items, Ausrüstung, Slots, Werte und persistente Inventardaten sauber miteinander verknüpfen.</sub></p>
+<p><strong>📜 Quests</strong><br><sub>Aufgaben, Dialoge, Ziele, Bedingungen und Belohnungen als datengetriebene Systeme umsetzen.</sub></p>
+<p><strong>👹 Monster & Bosse</strong><br><sub>Gegner-Archetypen, Spezialmechaniken und mehrphasige Begegnungen mit klarer Lesbarkeit entwickeln.</sub></p>
+<p><strong>🏰 Dungeons</strong><br><sub>Handgebaute Begegnungen, Bossräume, Fortschrittsregeln und Belohnungen zu eigenständigen Spielabschnitten verbinden.</sub></p>
+<p><strong>⚡ Performance</strong><br><sub>Gameplay und Präsentation so planen, dass auch ältere PCs und schwache integrierte Grafikeinheiten berücksichtigt werden.</sub></p>
+<p><strong>🎨 Asset Pipelines</strong><br><sub>Sprites, Icons, Modelle und Content über nachvollziehbare, reproduzierbare Asset-Workflows integrieren.</sub></p>
+<p><strong>🛠️ Developer Tools</strong><br><sub>Editor-Hilfen, Bridges, Validatoren und interne Werkzeuge entwickeln, die große Projekte beherrschbar halten.</sub></p>
 
 </td>
 <td width="50%" valign="top">
@@ -254,19 +252,17 @@ Ich entwickle Spiele und Game-Systeme mit Fokus auf langfristig erweiterbare Arc
 
 Ich beschäftige mich mit modernen Web- und Software-Technologien.
 
-**Technologien**
-
-- 🐍 Python
-- 🔷 TypeScript
-- 🟨 JavaScript
-- ⚛️ React
-- ▲ Next.js
-- 🐘 PHP
-- 🌐 HTML
-- 🎨 CSS
-- 🐬 MySQL
-- 🔴 Redis
-- 🔌 WebSockets
+<p><strong>🐍 Python</strong><br><sub>Automatisierung, Datenverarbeitung, Entwicklerwerkzeuge und technische Hilfsskripte.</sub></p>
+<p><strong>🔷 TypeScript</strong><br><sub>Typisierte Webanwendungen und größere Frontend-/Backend-Strukturen mit klaren Schnittstellen.</sub></p>
+<p><strong>🟨 JavaScript</strong><br><sub>Interaktive Weboberflächen, Client-Logik und browserbasierte Funktionen.</sub></p>
+<p><strong>⚛️ React</strong><br><sub>Komponentenbasierte Benutzeroberflächen mit wiederverwendbarer UI-Logik.</sub></p>
+<p><strong>▲ Next.js</strong><br><sub>Strukturierte React-Anwendungen mit Routing, Rendering und moderner Webarchitektur.</sub></p>
+<p><strong>🐘 PHP</strong><br><sub>Serverseitige Weblogik, klassische Webanwendungen und WordPress-nahe Entwicklung.</sub></p>
+<p><strong>🌐 HTML</strong><br><sub>Semantische Seitenstrukturen als stabile Grundlage für zugängliche Weboberflächen.</sub></p>
+<p><strong>🎨 CSS</strong><br><sub>Responsive Layouts, visuelle Systeme und klare Darstellung auf Desktop und Mobilgeräten.</sub></p>
+<p><strong>🐬 MySQL</strong><br><sub>Relationale Datenmodelle, persistente Anwendungsdaten und strukturierte Abfragen.</sub></p>
+<p><strong>🔴 Redis</strong><br><sub>Schnelle Zustände, Caching und temporäre Daten für vernetzte Anwendungen.</sub></p>
+<p><strong>🔌 WebSockets</strong><br><sub>Echtzeitkommunikation für Live-Updates, Messaging und interaktive Netzwerkfunktionen.</sub></p>
 
 </td>
 </tr>
@@ -277,15 +273,15 @@ Ich beschäftige mich mit modernen Web- und Software-Technologien.
 
 Linux ist meine primäre Entwicklungsumgebung.
 
-- 🌀 Debian
-- 🖥️ Shell
-- 🔀 Git
-- 🐙 GitHub
-- ⌨️ CLI-Workflows
-- 🔄 CI
-- 📦 Build-Pipelines
-- ⚙️ Automatisierung
-- 🛠️ lokale Developer Tools
+<p><strong>🌀 Debian</strong><br><sub>Stabile tägliche Entwicklungsplattform für Programmierung, Tools, Server und Automatisierung.</sub></p>
+<p><strong>🖥️ Shell</strong><br><sub>Dateien, Prozesse, Builds und Entwicklungsabläufe direkt und effizient über die Kommandozeile steuern.</sub></p>
+<p><strong>🔀 Git</strong><br><sub>Änderungen nachvollziehbar versionieren, Branches sauber trennen und Entwicklungsstände sicher zusammenführen.</sub></p>
+<p><strong>🐙 GitHub</strong><br><sub>Repositories, Pull Requests, Issues, Actions und Projektpräsentation in einem zentralen Workflow verbinden.</sub></p>
+<p><strong>⌨️ CLI-Workflows</strong><br><sub>Wiederholbare Abläufe bewusst über Kommandozeilenwerkzeuge statt über manuelle Klickfolgen aufbauen.</sub></p>
+<p><strong>🔄 CI</strong><br><sub>Tests und Validierungen automatisiert bei Änderungen ausführen und Fehler früh sichtbar machen.</sub></p>
+<p><strong>📦 Build-Pipelines</strong><br><sub>Builds, Exporte und Prüfungen reproduzierbar von Quellcode bis Artefakt organisieren.</sub></p>
+<p><strong>⚙️ Automatisierung</strong><br><sub>Wiederkehrende technische Aufgaben durch Skripte und definierte Prozesse zuverlässig vereinfachen.</sub></p>
+<p><strong>🛠️ lokale Developer Tools</strong><br><sub>Eigene Hilfsprogramme und lokale Werkzeuge für Analyse, Validierung und Projektsteuerung entwickeln.</sub></p>
 
 </td>
 <td width="50%" valign="top">
@@ -294,14 +290,14 @@ Linux ist meine primäre Entwicklungsumgebung.
 
 Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit modernen Coding Agents.
 
-- 🤖 Coding Agents
-- 🌉 AI Tool Bridges
-- 🧪 automatisierte Tests
-- ⚙️ Developer Automation
-- 🎨 Asset Pipelines
-- 🔁 reproduzierbare Workflows
-- ✅ automatische Validierung
-- 🧠 Agent-basierte Entwicklungsprozesse
+<p><strong>🤖 Coding Agents</strong><br><sub>Agenten für konkrete Entwicklungsaufgaben einsetzen, ohne Kontrolle über Architektur, Tests und Änderungen abzugeben.</sub></p>
+<p><strong>🌉 AI Tool Bridges</strong><br><sub>Werkzeuge und Schnittstellen bauen, über die Agenten kontrolliert mit Entwicklungsumgebungen interagieren können.</sub></p>
+<p><strong>🧪 automatisierte Tests</strong><br><sub>Agent-generierte Änderungen konsequent durch reale Tests und Regression Checks absichern.</sub></p>
+<p><strong>⚙️ Developer Automation</strong><br><sub>Agenten mit bestehenden Git-, Build-, Test- und Tooling-Abläufen zu reproduzierbaren Prozessen verbinden.</sub></p>
+<p><strong>🎨 Asset Pipelines</strong><br><sub>Auch Content- und Asset-Arbeit strukturiert, validierbar und möglichst automatisierbar in den Workflow integrieren.</sub></p>
+<p><strong>🔁 reproduzierbare Workflows</strong><br><sub>Aufgaben so definieren, dass Schritte, Ergebnisse und Prüfungen nachvollziehbar wiederholt werden können.</sub></p>
+<p><strong>✅ automatische Validierung</strong><br><sub>Qualitäts-Gates einsetzen, die Ergebnisse unabhängig vom Agenten objektiv gegen definierte Regeln prüfen.</sub></p>
+<p><strong>🧠 Agent-basierte Entwicklungsprozesse</strong><br><sub>Menschen, Coding Agents, Git, Tests und Reviews zu einem kontrollierten Gesamtprozess verbinden.</sub></p>
 
 </td>
 </tr>
@@ -383,14 +379,21 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
   <img src="./assets/agutroil-banner.png" alt="Agutroil – Code Linux Magic" width="100%" />
 </p>
 
-<h2 align="center">🐧 Powered by Linux &nbsp; ✦ &nbsp; 🪄 Crafted by Agutroil</h2>
+<h2 align="center">🐧 Powered by Linux &nbsp; · &nbsp; 🎮 Built with Godot &nbsp; · &nbsp; 🪄 Crafted by Agutroil</h2>
+
+<p align="center">
+  <strong>Developer · Linux · Games · Technology</strong><br>
+  <sub>Building systems, worlds and tools — one iteration at a time.</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Debian-Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Powered by Debian Linux" />
-  <img src="https://img.shields.io/badge/Godot-Game_Development-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Game Development" />
+  <img src="https://img.shields.io/badge/Godot-4.7.2-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Built with Godot" />
   <img src="https://img.shields.io/badge/Agutroil-Developer-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Agutroil Developer" />
 </p>
 
-<h3 align="center">💻 Code. &nbsp; 🐧 Linux. &nbsp; 🪄 Magic.</h3>
+<h3 align="center">💻 Code. &nbsp; 🐧 Linux. &nbsp; 🎮 Games. &nbsp; 🪄 Magic.</h3>
 
-<p align="center"><sub>Built with curiosity, persistence and a lot of Linux.</sub></p>
+<p align="center">
+  <sub>Driven by curiosity. Built with persistence. Powered by Linux.</sub>
+</p>
