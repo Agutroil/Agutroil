@@ -379,21 +379,12 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
   <img src="./assets/agutroil-banner.png" alt="Agutroil – Code Linux Magic" width="100%" />
 </p>
 
-<h2 align="center">🐧 Powered by Linux &nbsp; · &nbsp; 🎮 Built with Godot &nbsp; · &nbsp; 🪄 Crafted by Agutroil</h2>
+<p align="center">✦ &nbsp; 🪄 &nbsp; ✦</p>
+
+<h2 align="center"><em>“Every bug is just<br>an undocumented spell.”</em></h2>
 
 <p align="center">
-  <strong>Developer · Linux · Games · Technology</strong><br>
-  <sub>Building systems, worlds and tools — one iteration at a time.</sub>
+  <strong>— Agutroil</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Debian-Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Powered by Debian Linux" />
-  <img src="https://img.shields.io/badge/Godot-4.7.2-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Built with Godot" />
-  <img src="https://img.shields.io/badge/Agutroil-Developer-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Agutroil Developer" />
-</p>
-
-<h3 align="center">💻 Code. &nbsp; 🐧 Linux. &nbsp; 🎮 Games. &nbsp; 🪄 Magic.</h3>
-
-<p align="center">
-  <sub>Driven by curiosity. Built with persistence. Powered by Linux.</sub>
-</p>
+<p align="center">✦ &nbsp; 🐧 &nbsp; ✦</p>
