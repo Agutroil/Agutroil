@@ -28,12 +28,12 @@ GitHub paths are case-sensitive.
 <h1 align="center">🧙‍♂️ Anton Deister</h1>
 
 <p align="center">
-  <strong>Developer · Linux Enthusiast · Game Developer · Technology Enthusiast</strong><br>
+  <strong>Developer · Linux Enthusiast · Game Developer · Systems & Technology</strong><br>
   <code>@Agutroil</code>
 </p>
 
 <p align="center">
-  <em>Code. Linux. Games. Technology. Magic.</em>
+  <em>Building software, worlds and tools — powered by Linux, shaped by curiosity and a little magic.</em>
 </p>
 
 <p align="center">
