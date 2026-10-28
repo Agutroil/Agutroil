@@ -12,7 +12,6 @@ Agutroil/
     ├── banner.png
     ├── antondeister.png
     ├── agutroil-banner.png
-    └── Auto-Abenteuer-banner.png
 
 Important:
 - GitHub paths are case-sensitive.
@@ -526,68 +525,6 @@ Modernes und responsives WordPress-Theme für Blogs und Magazine.
 
 ---
 
-# 🚗 Auto Abenteuer
-
-<p align="center">
-  <img
-    src="./assets/Auto-Abenteuer-banner.png"
-    alt="Auto Abenteuer – Fahre. Sammle. Entdecke."
-    width="100%"
-  />
-</p>
-
-<h2 align="center">Auto Abenteuer</h2>
-
-<p align="center">
-  <strong>Kinderfreundliches Fahr- und Sammelspiel für Android</strong>
-</p>
-
-<p align="center">
-  <em>Fahre. Sammle. Entdecke.</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-Game-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Game">
-  <img src="https://img.shields.io/badge/Godot-Game_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
-  <img src="https://img.shields.io/badge/Kinderfreundlich-Familie-F59E0B?style=flat-square" alt="Kinderfreundlich">
-  <img src="https://img.shields.io/badge/Werbung-Keine-16A34A?style=flat-square" alt="Ohne Werbung">
-</p>
-
-**Auto Abenteuer** ist ein buntes und leicht zugängliches Fahrspiel, das bewusst als
-**kinderfreundliches Spielerlebnis** entwickelt wurde.
-
-Die einfache Steuerung und die übersichtlichen Spielmechaniken sollen es Kindern
-ermöglichen, direkt loszufahren, Münzen zu sammeln und die Spielwelt in ihrem eigenen
-Tempo zu entdecken.
-
-### 🎮 Das erwartet dich
-
-- 🚗 einfache und kinderfreundliche Fahrzeugsteuerung
-- 🪙 Münzen sammeln
-- 🌳 bunte Straßen, Landschaften und Umgebungen entdecken
-- 🏁 Checkpoints und kleine Herausforderungen
-- 🛣️ Rampen und Sprünge
-- 🚙 Fahrzeuge und Garage
-- 💾 Spielstand speichern und später weiterspielen
-- 📱 für Android entwickelt
-- 🚫 **keine Werbung**
-- 👨‍👩‍👧 als Spiel für Kinder und Familien gedacht
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1J6u5X2Q61ojrOiWqvZtYS0jnAr8jwN92/view?usp=drive_link">
-    <img
-      src="https://img.shields.io/badge/Google_Drive-Auto_Abenteuer_APK-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
-      alt="Auto Abenteuer APK über Google Drive herunterladen"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>🎮 Kinderfreundlich · 📱 Android · 🚫 Werbefrei</sub>
-</p>
-
----
-
 # 🧰 Technology Stack
 
 <table>
@@ -818,7 +755,6 @@ sondern möglichst Teil eines **kontrollierten, überprüfbaren und reproduzierb
 ### 🎮 Game Development
 
 - Nythara weiterentwickeln
-- Auto Abenteuer weiterentwickeln
 - größere Godot-Spielwelten
 - World Building
 - Multiplayer-Architektur
@@ -1070,7 +1006,7 @@ Ich möchte Technologien nicht nur benutzen, sondern verstehen, verändern und s
 
 Dabei kombiniere ich klassische Softwareentwicklung zunehmend mit modernen Automatisierungs-, Security- und KI-Werkzeugen.
 
-Mit Projekten wie **Nythara**, **Aura**, **Auto Abenteuer**, **MedCore** und **Blog Pulse** veröffentliche ich eigene Projekte und dokumentiere ihre Entwicklung auf GitHub.
+Mit Projekten wie **Nythara**, **Aura**, **MedCore** und **Blog Pulse** veröffentliche ich eigene Projekte und dokumentiere ihre Entwicklung auf GitHub.
 
 Mein Ziel ist nicht, mich auf genau eine Technologie festzulegen.
 
