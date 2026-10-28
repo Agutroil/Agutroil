@@ -279,7 +279,12 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 
 ---
 
-# 🌌 Current Focus — Nythara
+<h1 align="center">
+  🌌 Current Focus — Nythara
+  <a href="https://agutroil.github.io/Nythara/">
+    <img src="https://img.shields.io/badge/NYTHARA-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara" height="28" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://agutroil.github.io/Nythara/">
@@ -291,72 +296,157 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
   </a>
 </p>
 
-<p align="center">
-  <a href="https://agutroil.github.io/Nythara/">
-    <img src="https://img.shields.io/badge/PROJECT-NYTHARA-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara" />
-  </a>
-</p>
-
-<h2 align="center">Nythara</h2>
-
-<p align="center">
-  <strong>A 2D MMORPG set in an immersive 3D fantasy world.</strong>
-</p>
+<h2 align="center">A 2D MMORPG inside an immersive 3D fantasy world.</h2>
 
 <p align="center">
   <em>Explore · Fight · Progress · Build · Connect</em>
 </p>
 
-**Nythara** ist mein größtes aktuelles Game-Development-Projekt.
+<p align="center">
+  <strong>Nythara</strong> ist mein größtes aktuelles Game-Development-Projekt.<br>
+  Das Spiel verbindet gerichtete 2D-Charaktere mit einer stilisierten 3D-Fantasywelt und wächst zu einem Online-RPG mit persistenten Charakteren, serverautoritativem Gameplay, Regionen, Dungeons und langfristiger Progression.
+</p>
 
-Das Spiel verbindet **2D-Charaktere mit einer stilisierten 3D-Fantasywelt** und wird als umfangreiches Online-RPG mit persistenten Charakteren, serverautoritativem Gameplay und einer wachsenden Welt entwickelt.
+<p align="center">
+  <a href="https://agutroil.github.io/Nythara/">
+    <img src="https://img.shields.io/badge/Nythara_entdecken-Official_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nythara entdecken" />
+  </a>
+</p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### ⚔️ Gameplay & World
+<h3>⚔️ Gameplay & World</h3>
 
-- 🌍 Fantasy-Regionen
-- 🌐 Multiplayer
-- ⚔️ Combat
-- 🌀 Portale & Reisen
-- 👹 Monster & Bosse
-- 🏰 Städte & Dungeons
-- 🗡️ Items & Equipment
-- 🎒 Inventar
-- 🧙 Charakter-Systeme
-- 📈 Skills & Progression
-- 📜 Quests
-- 💰 Economy
+<p>
+  <strong>🌍 Fantasy-Regionen</strong><br>
+  <sub>Eigene Gebiete, Biome und miteinander verbundene Fantasy-Welten.</sub>
+</p>
+
+<p>
+  <strong>🌐 Multiplayer</strong><br>
+  <sub>Gemeinsame Spielwelt mit persistenten Charakteren und serverseitiger Autorität.</sub>
+</p>
+
+<p>
+  <strong>⚔️ Combat</strong><br>
+  <sub>Echtzeitkämpfe mit Skills, Gegner-Archetypen, Telegraphs und Bossmechaniken.</sub>
+</p>
+
+<p>
+  <strong>🌀 Portale & Reisen</strong><br>
+  <sub>Reisen zwischen Regionen über Weltübergänge, Portale und freigeschaltete Wege.</sub>
+</p>
+
+<p>
+  <strong>👹 Monster & Bosse</strong><br>
+  <sub>Unterschiedliche Kreaturen, Elite-Gegner und mehrphasige Bossbegegnungen.</sub>
+</p>
+
+<p>
+  <strong>🏰 Städte & Dungeons</strong><br>
+  <sub>Städte, Quest-Hubs und handgebaute Dungeons mit eigener Progression.</sub>
+</p>
+
+<p>
+  <strong>🗡️ Items & Equipment</strong><br>
+  <sub>Loot, Ausrüstung, Seltenheiten, Werte und sichtbare Equipment-Systeme.</sub>
+</p>
+
+<p>
+  <strong>🎒 Inventar</strong><br>
+  <sub>Persistente Verwaltung von Items, Ausrüstung, Materialien und Belohnungen.</sub>
+</p>
+
+<p>
+  <strong>🧙 Charakter-Systeme</strong><br>
+  <sub>Attribute, Builds, Charakterzustand und langfristige Entwicklung.</sub>
+</p>
+
+<p>
+  <strong>📈 Skills & Progression</strong><br>
+  <sub>XP, Level, Skill-Ränge, Loadouts und freischaltbare Charakterentwicklung.</sub>
+</p>
+
+<p>
+  <strong>📜 Quests</strong><br>
+  <sub>NPCs, Dialoge, Ziele, Freischaltungen und persistente Quest-Fortschritte.</sub>
+</p>
+
+<p>
+  <strong>💰 Economy</strong><br>
+  <sub>Sammeln, Crafting, Händler, Währung und ein wachsender Item-Kreislauf.</sub>
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🧰 Technology & Development
+<h3>🧰 Technology & Development</h3>
 
-- 🎮 Godot 4.7.2
-- 📜 GDScript
-- 🌐 ENet Multiplayer
-- 🛡️ Server Authority
-- 🖥️ GL Compatibility
-- 🎨 Asset Management
-- 🧩 Content Pipelines
-- 🧪 Automated Testing
-- 🌉 AI Bridge
-- 🤖 Coding Agents
-- 🔄 CI
-- ⚡ Low-End Performance
+<p>
+  <strong>🎮 Godot 4.7.2</strong><br>
+  <sub>Die zentrale Engine für Gameplay, Welt, UI und Multiplayer.</sub>
+</p>
+
+<p>
+  <strong>📜 GDScript</strong><br>
+  <sub>Gameplay-Systeme, Tools, Tests und Runtime-Logik.</sub>
+</p>
+
+<p>
+  <strong>🌐 ENet Multiplayer</strong><br>
+  <sub>Netzwerkbasis für echte Clients, Server-Sessions und gemeinsame Welten.</sub>
+</p>
+
+<p>
+  <strong>🛡️ Server Authority</strong><br>
+  <sub>Serverseitige Kontrolle über Combat, Fortschritt, Weltzustand und Charakterdaten.</sub>
+</p>
+
+<p>
+  <strong>🖥️ GL Compatibility</strong><br>
+  <sub>Breite Hardware-Unterstützung mit Fokus auf ältere PCs und schwache iGPUs.</sub>
+</p>
+
+<p>
+  <strong>🎨 Asset Management</strong><br>
+  <sub>Zentrale Verwaltung von Sprites, Icons, Equipment und Welt-Assets.</sub>
+</p>
+
+<p>
+  <strong>🧩 Content Pipelines</strong><br>
+  <sub>Strukturierte Daten für Items, Monster, Loot, Regionen und Gameplay-Content.</sub>
+</p>
+
+<p>
+  <strong>🧪 Automated Testing</strong><br>
+  <sub>Umfangreiche automatisierte Gameplay-, Netzwerk-, World- und Regressionstests.</sub>
+</p>
+
+<p>
+  <strong>🌉 AI Bridge</strong><br>
+  <sub>Werkzeuge für kontrollierte Agent-Interaktion mit Godot und Entwicklungsabläufen.</sub>
+</p>
+
+<p>
+  <strong>🤖 Coding Agents</strong><br>
+  <sub>Agent-gestützte Entwicklung innerhalb eines testbaren Git- und Review-Workflows.</sub>
+</p>
+
+<p>
+  <strong>🔄 CI</strong><br>
+  <sub>Automatische Validierung und Qualitäts-Gates über GitHub Actions.</sub>
+</p>
+
+<p>
+  <strong>⚡ Low-End Performance</strong><br>
+  <sub>Ressourcenschonende Architektur, skalierbare Präsentation und bewusst begrenzte Effekte.</sub>
+</p>
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://agutroil.github.io/Nythara/">
-    <img src="https://img.shields.io/badge/Explore_Nythara-Official_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Nythara Website" />
-  </a>
-</p>
 
 <p align="center">
   <sub>Weitere Informationen, aktuelle Entwicklung, Welt, Kreaturen, Dungeons und Datenbank findest du auf der offiziellen Nythara-Webseite.</sub>
