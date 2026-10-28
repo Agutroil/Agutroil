@@ -305,17 +305,10 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 
 ---
 
-<h1 align="center">
-  🌌 Current Focus — Nythara
-  <a href="https://agutroil.github.io/Nythara/">
-    <img src="https://img.shields.io/badge/NYTHARA-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara" height="28" />
-  </a>
-</h1>
+<h1 align="center">🌌 Current Focus — Nythara</h1>
 
 <p align="center">
-  <a href="https://agutroil.github.io/Nythara/">
-    <img src="https://agutroil.github.io/Nythara/assets/nythara-banner.png" alt="Nythara — A 2D MMORPG in a 3D fantasy world" width="100%" />
-  </a>
+  <img src="https://agutroil.github.io/Nythara/assets/nythara-banner.png" alt="Nythara — A 2D MMORPG in a 3D fantasy world" width="100%" />
 </p>
 
 <h2 align="center">A 2D MMORPG inside an immersive 3D fantasy world.</h2>
@@ -324,10 +317,6 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 <p align="center">
   <strong>Nythara</strong> ist mein größtes aktuelles Game-Development-Projekt.<br>
   Das Spiel verbindet gerichtete 2D-Charaktere mit einer stilisierten 3D-Fantasywelt und wächst zu einem Online-RPG mit persistenten Charakteren, serverautoritativem Gameplay, Regionen, Dungeons und langfristiger Progression.
-</p>
-
-<p align="center">
-  <a href="https://agutroil.github.io/Nythara/"><img src="https://img.shields.io/badge/Nythara_entdecken-Official_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nythara entdecken" /></a>
 </p>
 
 <table>
