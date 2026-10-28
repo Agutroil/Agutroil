@@ -213,6 +213,16 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 
 <p align="center">
   <a href="https://agutroil.github.io/Nythara/">
+    <img
+      src="https://agutroil.github.io/Nythara/assets/nythara-banner.png"
+      alt="Nythara — A 2D MMORPG in a 3D fantasy world"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://agutroil.github.io/Nythara/">
     <img src="https://img.shields.io/badge/PROJECT-NYTHARA-7C3AED?style=for-the-badge&logo=godotengine&logoColor=white" alt="Nythara" />
   </a>
 </p>
