@@ -96,17 +96,94 @@ Ich möchte Technologien nicht nur benutzen, sondern verstehen, verändern und d
 <h3>Anton Deister</h3>
 <p><code>@Agutroil</code></p>
 <p><sub>Developer · Linux · Games · Technology</sub></p>
+<p><kbd>🐧 Linux</kbd> <kbd>🎮 Games</kbd></p>
+<p><kbd>💻 Development</kbd> <kbd>🔐 Security</kbd></p>
+<p><kbd>🤖 AI</kbd> <kbd>⚙️ Automation</kbd></p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧰 Technology Stack
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🐧 System
+
 <p>
-  <kbd>🐧 Linux</kbd>
-  <kbd>🎮 Games</kbd>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 Game Development
+
 <p>
-  <kbd>💻 Development</kbd>
-  <kbd>🔐 Security</kbd>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
+  <img src="https://img.shields.io/badge/Multiplayer-0891B2?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Multiplayer" />
+  <img src="https://img.shields.io/badge/Game_Architecture-334155?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Game Architecture" />
 </p>
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Programming
+
 <p>
-  <kbd>🤖 AI</kbd>
-  <kbd>⚙️ Automation</kbd>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Web
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Networking-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Development
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI with GitHub Actions" />
+  <img src="https://img.shields.io/badge/Testing-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Testing" />
+  <img src="https://img.shields.io/badge/Automation-6E56CF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Coding_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Coding Agents" />
 </p>
 
 </td>
@@ -284,92 +361,6 @@ Das Spiel verbindet **2D-Charaktere mit einer stilisierten 3D-Fantasywelt** und 
 <p align="center">
   <sub>Weitere Informationen, aktuelle Entwicklung, Welt, Kreaturen, Dungeons und Datenbank findest du auf der offiziellen Nythara-Webseite.</sub>
 </p>
-
----
-
-# 🧰 Technology Stack
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🐧 System
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### 🎮 Game Development
-
-<p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/Multiplayer-0891B2?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Multiplayer" />
-  <img src="https://img.shields.io/badge/Game_Architecture-334155?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Game Architecture" />
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🌐 Web
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Networking-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Development
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI with GitHub Actions" />
-  <img src="https://img.shields.io/badge/Testing-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Testing" />
-  <img src="https://img.shields.io/badge/Automation-6E56CF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
-  <img src="https://img.shields.io/badge/Coding_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Coding Agents" />
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
