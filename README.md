@@ -366,7 +366,7 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 
 <strong>ℹ️ Mehr über Nythara</strong><br><br>
 Weitere Informationen, aktuelle Entwicklung, Welt, Kreaturen, Dungeons und Datenbank findest du auf der offiziellen Nythara-Webseite.<br><br>
-<a href="https://agutroil.github.io/Nythara/"><strong>→ Nythara-Webseite öffnen</strong></a>
+<a href="https://agutroil.github.io/Nythara/"><img src="https://img.shields.io/badge/NYTHARA-Webseite%20%C3%B6ffnen-0EA5E9?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=111827" alt="Nythara-Webseite öffnen" /></a>
 
 </td>
 </tr>
