@@ -11,6 +11,7 @@ Agutroil/
 └── assets/
     ├── banner.png
     ├── antondeister.png
+    ├── nythara-banner.jpg
     └── agutroil-banner.png
 
 GitHub paths are case-sensitive.
@@ -308,7 +309,9 @@ Mich interessiert besonders die Verbindung klassischer Softwareentwicklung mit m
 <h1 align="center">🌌 Current Focus — Nythara</h1>
 
 <p align="center">
-  <img src="https://agutroil.github.io/Nythara/assets/nythara-banner.png" alt="Nythara — A 2D MMORPG in a 3D fantasy world" width="100%" />
+  <a href="https://agutroil.github.io/Nythara/" title="Nythara Website öffnen">
+    <img src="./assets/nythara-banner.jpg" alt="Nythara — A 2D MMORPG in a 3D fantasy world" width="100%" />
+  </a>
 </p>
 
 <h2 align="center">A 2D MMORPG inside an immersive 3D fantasy world.</h2>
