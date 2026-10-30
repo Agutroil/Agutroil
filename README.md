@@ -14,7 +14,7 @@
 <h1 align="center">Anton Deister · Agutroil</h1>
 
 <p align="center">
-  <strong>Entwickler · Linux-Enthusiast · Open-Source-Creator · Technik-Enthusiast</strong>
+  <strong>Entwickler · Linux-Enthusiast · Technik-Enthusiast</strong>
 </p>
 
 <p align="center">
